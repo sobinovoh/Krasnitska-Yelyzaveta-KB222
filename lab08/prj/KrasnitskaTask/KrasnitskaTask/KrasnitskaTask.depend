@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677679985 source:/Users/lizakrasnickaa/Documents/GitHub/Krasnitska-Yelyzaveta-KB222/lab08/prj/KrasnitskaTask/KrasnitskaTask/main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
